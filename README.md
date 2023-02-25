@@ -1,3 +1,3 @@
-# Encode Bootcamp Lesson 7
+# Encode Bootcamp Lesson 8
 
-Exercise scope: testing the smart contract Ballot.sol
+Exercise scope: write a script and connect to a public blockchain.
